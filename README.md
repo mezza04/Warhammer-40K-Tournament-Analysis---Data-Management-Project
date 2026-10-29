@@ -33,6 +33,10 @@ Full methodology and results are available in the project report.
 
 ```
 .
+├── README.md
+|
+├── DM_project__warhammer_40k.pdf       # Report
+│
 ├── 1_Data Aquisition/
 │   ├── API_acquisition.py              # Extracts raw tournament data from the ListEngine API
 │   ├── parser.py                       # First parsing of the raw JSON
