@@ -1,0 +1,3997 @@
+{
+  "eventInfo": {
+    "eventName": "Warhammer 40,000 - 2025 World Championships of Warhammer",
+    "eventDate": "November 06, 2025",
+    "location": "Atlanta, GA, United States",
+    "totalPlayers": 402
+  },
+  "extendedLists": [
+    {
+      "playerId": "6911a5d9125a3c00beaee1a6",
+      "playerName": "Justin Moore",
+      "firstName": "Justin",
+      "lastName": "Moore",
+      "rank": 31,
+      "army": "Adeptus Mechanicus",
+      "detachment": "haloscreed battle clade",
+      "score": "7-1-0",
+      "list": {
+        "characters": [
+          {
+            "name": "Belisarius Cawl",
+            "points": 175,
+            "enhancements": [],
+            "is_warlord": true
+          }
+        ],
+        "battleline": [
+          {
+            "name": "Skitarii Rangers",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Skitarii Rangers",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "dedicated_transports": [
+          {
+            "name": "Skorpius Dunerider",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "other_datasheets": [
+          {
+            "name": "Ironstrider Ballistarii",
+            "points": 225,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Ironstrider Ballistarii",
+            "points": 225,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Pteraxii Skystalkers",
+            "points": 70,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Pteraxii Skystalkers",
+            "points": 70,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Sicarian Infiltrators",
+            "points": 70,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Sicarian Infiltrators",
+            "points": 140,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Sicarian Ruststalkers",
+            "points": 150,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Sicarian Ruststalkers",
+            "points": 150,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Sicarian Ruststalkers",
+            "points": 75,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Sydonian Dragoons with Taser Lances",
+            "points": 130,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Sydonian Dragoons with Taser Lances",
+            "points": 130,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Sydonian Dragoons with Taser Lances",
+            "points": 130,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "jun hong",
+          "army": "Adepta Sororitas",
+          "detachment": "hallowed martyrs",
+          "opponentListuuid": "6911a5d9125a3c00beaee215",
+          "status": "victory",
+          "playerScore": "86",
+          "rivalScore": "76"
+        },
+        {
+          "player": "Lucas Gil",
+          "army": "Adeptus Custodes",
+          "detachment": "lions of the emperor",
+          "opponentListuuid": "6911a5d9125a3c00beaee2df",
+          "status": "victory",
+          "playerScore": "78",
+          "rivalScore": "70"
+        },
+        {
+          "player": "Steven Salazar",
+          "army": "T'Au Empire",
+          "detachment": "kauyon",
+          "opponentListuuid": "6911a5d9125a3c00beaee1f4",
+          "status": "victory",
+          "playerScore": "99",
+          "rivalScore": "66"
+        },
+        {
+          "player": "Rasmus Valand Fredriksen",
+          "army": "Necrons",
+          "detachment": "awakened dynasty",
+          "opponentListuuid": "6911a5d9125a3c00beaee236",
+          "status": "victory",
+          "playerScore": "99",
+          "rivalScore": "53"
+        },
+        {
+          "player": "Jordan Nach",
+          "army": "T'Au Empire",
+          "detachment": "mont'ka",
+          "opponentListuuid": "6911a5d9125a3c00beaee1bb",
+          "status": "victory",
+          "playerScore": "85",
+          "rivalScore": "75"
+        },
+        {
+          "player": "Kjetil Andre Liknes",
+          "army": "Adeptus Mechanicus",
+          "detachment": "Haloscreed Battleclade",
+          "opponentListuuid": "6911a5d9125a3c00beaee1cc",
+          "status": "victory",
+          "playerScore": "95",
+          "rivalScore": "50"
+        },
+        {
+          "player": "Muad'Dib Gustavo José Branco Varandas de Sousa",
+          "army": "Astra Militarum",
+          "detachment": "combined arms",
+          "opponentListuuid": "6911a5d9125a3c00beaee1c4",
+          "status": "victory",
+          "playerScore": "100",
+          "rivalScore": "85"
+        },
+        {
+          "player": "Falco La_Orden",
+          "army": "Emperors Children",
+          "detachment": "coterie of the conceited",
+          "opponentListuuid": "6911a5d9125a3c00beaee19d",
+          "status": "defeat",
+          "playerScore": "72",
+          "rivalScore": "82"
+        }
+      ],
+      "tags": [
+        "Belisarius Cawl",
+        "Ironstrider Ballistarii",
+        "Pteraxii Skystalkers",
+        "Sicarian Infiltrators",
+        "Sicarian Ruststalkers",
+        "Skitarii Rangers",
+        "Skorpius Dunerider",
+        "Sydonian Dragoons with Taser Lances"
+      ]
+    },
+    {
+      "playerId": "6911a5d9125a3c00beaee1ac",
+      "playerName": "breney julien « Da_Gnol »",
+      "firstName": "breney",
+      "lastName": "julien « Da_Gnol »",
+      "rank": 37,
+      "army": "Thousand Sons",
+      "detachment": "rubricae phalanx",
+      "score": "6-2-0",
+      "list": {
+        "characters": [
+          {
+            "name": "Ahriman",
+            "points": 100,
+            "enhancements": [],
+            "is_warlord": true
+          },
+          {
+            "name": "Daemon Prince of Tzeentch",
+            "points": 185,
+            "enhancements": [
+              "Arcane Thralls (Aura)"
+            ],
+            "is_warlord": false
+          },
+          {
+            "name": "Exalted Sorcerer",
+            "points": 80,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Exalted Sorcerer",
+            "points": 95,
+            "enhancements": [
+              "Lord of the Rubricae"
+            ],
+            "is_warlord": false
+          },
+          {
+            "name": "Exalted Sorcerer",
+            "points": 110,
+            "enhancements": [
+              "Risen Rubricae"
+            ],
+            "is_warlord": false
+          },
+          {
+            "name": "Sorcerer",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Tzaangor Shaman",
+            "points": 60,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "battleline": [
+          {
+            "name": "Rubric Marines",
+            "points": 190,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Rubric Marines",
+            "points": 190,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Rubric Marines",
+            "points": 190,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Rubric Marines",
+            "points": 190,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Rubric Marines",
+            "points": 105,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "dedicated_transports": [
+          {
+            "name": "Chaos Rhino",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "other_datasheets": [
+          {
+            "name": "Tzaangor Enlightened with Fatecaster Greatbows",
+            "points": 110,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Tzaangors",
+            "points": 70,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Tzaangors",
+            "points": 70,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Tzaangors",
+            "points": 70,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "Brett Perkins",
+          "army": "Chaos Daemons",
+          "detachment": "Shadow Legion",
+          "opponentListuuid": "6911a5d9125a3c00beaee2b8",
+          "status": "defeat",
+          "playerScore": "88",
+          "rivalScore": "94"
+        },
+        {
+          "player": "Carlos Moreno",
+          "army": "Aeldari",
+          "detachment": "Warhost",
+          "opponentListuuid": "6911a5d9125a3c00beaee285",
+          "status": "victory",
+          "playerScore": "100",
+          "rivalScore": "43"
+        },
+        {
+          "player": "Philip Hall",
+          "army": "Space Wolves",
+          "detachment": "Gladius Task Force",
+          "opponentListuuid": "6911a5d9125a3c00beaee2e3",
+          "status": "victory",
+          "playerScore": "94",
+          "rivalScore": "40"
+        },
+        {
+          "player": "Yew Soon Christopher Koh",
+          "army": "Astra Militarum",
+          "detachment": "combined arms",
+          "opponentListuuid": "6911a5d9125a3c00beaee2d8",
+          "status": "victory",
+          "playerScore": "98",
+          "rivalScore": "59"
+        },
+        {
+          "player": "Matt Estrada",
+          "army": "Adeptus Mechanicus",
+          "detachment": "haloscreed battle clade",
+          "opponentListuuid": "6911a5d9125a3c00beaee1e5",
+          "status": "victory",
+          "playerScore": "100",
+          "rivalScore": "70"
+        },
+        {
+          "player": "Stephen Mitchell",
+          "army": "Chaos Space Marines",
+          "detachment": "renegade raiders",
+          "opponentListuuid": "6911a5d9125a3c00beaee1c9",
+          "status": "victory",
+          "playerScore": "65",
+          "rivalScore": "41"
+        },
+        {
+          "player": "Jeffrey Kolodner",
+          "army": "Adepta Sororitas",
+          "detachment": "hallowed martyrs",
+          "opponentListuuid": "6911a5d9125a3c00beaee1cb",
+          "status": "victory",
+          "playerScore": "78",
+          "rivalScore": "74"
+        },
+        {
+          "player": "Brian Daugherty",
+          "army": "World Eaters",
+          "detachment": "berzerker warband",
+          "opponentListuuid": "6911a5d9125a3c00beaee19a",
+          "status": "defeat",
+          "playerScore": "48",
+          "rivalScore": "93"
+        }
+      ],
+      "tags": [
+        "Ahriman",
+        "Chaos Rhino",
+        "Daemon Prince of Tzeentch",
+        "Exalted Sorcerer",
+        "Rubric Marines",
+        "Sorcerer",
+        "Tzaangors",
+        "Tzaangor Shaman",
+        "Tzaangor Enlightened",
+        "Tzaangor Enlightened with Fatecaster Greatbows"
+      ]
+    },
+    {
+      "playerId": "6911a5d9125a3c00beaee1bd",
+      "playerName": "Timothy Grant",
+      "firstName": "Timothy",
+      "lastName": "Grant",
+      "rank": 54,
+      "army": "Necrons",
+      "detachment": "awakened dynasty",
+      "score": "5-3-0",
+      "list": {
+        "characters": [
+          {
+            "name": "Illuminor Szeras",
+            "points": 165,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Orikan the Diviner",
+            "points": 80,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "The Silent King",
+            "points": 400,
+            "enhancements": [],
+            "is_warlord": true
+          },
+          {
+            "name": "Catacomb Command Barge",
+            "points": 150,
+            "enhancements": [
+              "Enaegic Dermal Bond (+30 pts)"
+            ],
+            "is_warlord": false
+          },
+          {
+            "name": "Hexmark Destroyer",
+            "points": 75,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Royal Warden",
+            "points": 70,
+            "enhancements": [
+              "Nether-realm Casket (+20 pts)"
+            ],
+            "is_warlord": false
+          }
+        ],
+        "battleline": [
+          {
+            "name": "Necron Warriors",
+            "points": 200,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "dedicated_transports": [],
+        "other_datasheets": [
+          {
+            "name": "Cryptothralls",
+            "points": 60,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Deathmarks",
+            "points": 60,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Flayed Ones",
+            "points": 60,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Ophydian Destroyers",
+            "points": 80,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Canoptek Reanimator",
+            "points": 75,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Doomsday Ark",
+            "points": 200,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Doomsday Ark",
+            "points": 200,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Ghost Ark",
+            "points": 115,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "Borja FM",
+          "army": "Blood Angels",
+          "detachment": "liberator assault group",
+          "opponentListuuid": "6911a5d9125a3c00beaee1da",
+          "status": "victory",
+          "playerScore": "75",
+          "rivalScore": "70"
+        },
+        {
+          "player": "Jake Walker",
+          "army": "World Eaters",
+          "detachment": "berzerker warband",
+          "opponentListuuid": "6911a5d9125a3c00beaee27e",
+          "status": "victory",
+          "playerScore": "88",
+          "rivalScore": "50"
+        },
+        {
+          "player": "Samuel Pope",
+          "army": "Tyranids",
+          "detachment": "invasion fleet",
+          "opponentListuuid": "6911a5d9125a3c00beaee19c",
+          "status": "defeat",
+          "playerScore": "60",
+          "rivalScore": "100"
+        },
+        {
+          "player": "Chris martens",
+          "army": "Aeldari",
+          "detachment": "Aspect Host",
+          "opponentListuuid": "6911a5d9125a3c00beaee258",
+          "status": "victory",
+          "playerScore": "94",
+          "rivalScore": "70"
+        },
+        {
+          "player": "Ken Knox",
+          "army": "Adeptus Mechanicus",
+          "detachment": "haloscreed battle clade",
+          "opponentListuuid": "6911a5d9125a3c00beaee1d9",
+          "status": "victory",
+          "playerScore": "84",
+          "rivalScore": "49"
+        },
+        {
+          "player": "tony barrett",
+          "army": "T'Au Empire",
+          "detachment": "mont'ka",
+          "opponentListuuid": "6911a5d9125a3c00beaee1c3",
+          "status": "victory",
+          "playerScore": "71",
+          "rivalScore": "59"
+        },
+        {
+          "player": "Francesco Di Bonaventura",
+          "army": "Necrons",
+          "detachment": "awakened dynasty",
+          "opponentListuuid": "6911a5d9125a3c00beaee1a2",
+          "status": "defeat",
+          "playerScore": "45",
+          "rivalScore": "100"
+        },
+        {
+          "player": "Bastian Kry",
+          "army": "Space Marines (Astartes)",
+          "detachment": "Gladius Task Force",
+          "opponentListuuid": "6911a5d9125a3c00beaee1ad",
+          "status": "defeat",
+          "playerScore": "43",
+          "rivalScore": "86"
+        }
+      ],
+      "tags": [
+        "Canoptek Reanimator",
+        "Catacomb Command Barge",
+        "Cryptothralls",
+        "Deathmarks",
+        "Doomsday Ark",
+        "Flayed Ones",
+        "Ghost Ark",
+        "Hexmark Destroyer",
+        "Illuminor Szeras",
+        "Necron Warriors",
+        "Ophydian Destroyers",
+        "Orikan the Diviner",
+        "Overlord",
+        "Royal Warden",
+        "The Silent King"
+      ]
+    },
+    {
+      "playerId": "6911a5d9125a3c00beaee1be",
+      "playerName": "Thomas Cowan",
+      "firstName": "Thomas",
+      "lastName": "Cowan",
+      "rank": 55,
+      "army": "Chaos Space Marines",
+      "detachment": "renegade raiders",
+      "score": "5-3-0",
+      "list": {
+        "characters": [
+          {
+            "name": "Cypher",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Fabius Bile",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": true
+          },
+          {
+            "name": "Chaos Lord",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Lord Discordant on Helstalker",
+            "points": 175,
+            "enhancements": [
+              "Dread Reaver (+15 pts)"
+            ],
+            "is_warlord": false
+          }
+        ],
+        "battleline": [
+          {
+            "name": "Cultist Mob",
+            "points": 50,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Cultist Mob",
+            "points": 50,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Legionaries",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "dedicated_transports": [
+          {
+            "name": "Chaos Rhino",
+            "points": 75,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Rhino",
+            "points": 75,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "other_datasheets": [
+          {
+            "name": "Chosen",
+            "points": 125,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chosen",
+            "points": 250,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Noise Marines",
+            "points": 145,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Noise Marines",
+            "points": 145,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Raptors",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Predator Annihilator",
+            "points": 135,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Predator Annihilator",
+            "points": 135,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Vindicator",
+            "points": 185,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "Jack Harpster",
+          "army": "Adepta Sororitas",
+          "detachment": "champions of faith",
+          "opponentListuuid": "6911a5d9125a3c00beaee18e",
+          "status": "defeat",
+          "playerScore": "47",
+          "rivalScore": "93"
+        },
+        {
+          "player": "Tyler Stice",
+          "army": "Deathwatch",
+          "detachment": "black spear task force",
+          "opponentListuuid": "6911a5d9125a3c00beaee260",
+          "status": "victory",
+          "playerScore": "92",
+          "rivalScore": "45"
+        },
+        {
+          "player": "Seth Oster",
+          "army": "Orks",
+          "detachment": "green tide",
+          "opponentListuuid": "6911a5d9125a3c00beaee211",
+          "status": "victory",
+          "playerScore": "81",
+          "rivalScore": "74"
+        },
+        {
+          "player": "Edoardo Pierini",
+          "army": "Thousand Sons",
+          "detachment": "grand coven",
+          "opponentListuuid": "6911a5d9125a3c00beaee234",
+          "status": "victory",
+          "playerScore": "98",
+          "rivalScore": "53"
+        },
+        {
+          "player": "Riccardo Ghio",
+          "army": "Grey Knights",
+          "detachment": "Brotherhood Strike",
+          "opponentListuuid": "6911a5d9125a3c00beaee1fb",
+          "status": "victory",
+          "playerScore": "88",
+          "rivalScore": "22"
+        },
+        {
+          "player": "Steven Salazar",
+          "army": "T'Au Empire",
+          "detachment": "kauyon",
+          "opponentListuuid": "6911a5d9125a3c00beaee1f4",
+          "status": "victory",
+          "playerScore": "84",
+          "rivalScore": "62"
+        },
+        {
+          "player": "Alejandro Mancuso Serrano",
+          "army": "Blood Angels",
+          "detachment": "Angelic Inheritors",
+          "opponentListuuid": "6911a5d9125a3c00beaee19b",
+          "status": "defeat",
+          "playerScore": "66",
+          "rivalScore": "90"
+        },
+        {
+          "player": "Matthew Geyer",
+          "army": "Adeptus Mechanicus",
+          "detachment": "haloscreed battle clade",
+          "opponentListuuid": "6911a5d9125a3c00beaee19e",
+          "status": "defeat",
+          "playerScore": "74",
+          "rivalScore": "83"
+        }
+      ],
+      "tags": [
+        "Chaos Lord",
+        "Chaos Predator Annihilator",
+        "Chaos Rhino",
+        "Chaos Vindicator",
+        "Chosen",
+        "Cultist Mob",
+        "Cypher",
+        "Fabius Bile",
+        "Legionaries",
+        "Lord Discordant on Helstalker",
+        "Raptors"
+      ]
+    },
+    {
+      "playerId": "6911a5d9125a3c00beaee1c4",
+      "playerName": "Muad'Dib Gustavo José Branco Varandas de Sousa",
+      "firstName": "Muad'Dib Gustavo José Branco Varandas de",
+      "lastName": "Sousa",
+      "rank": 61,
+      "army": "Astra Militarum",
+      "detachment": "combined arms",
+      "score": "5-3-0",
+      "list": {
+        "characters": [
+          {
+            "name": "Cadian Castellan",
+            "points": 55,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Cadian Castellan",
+            "points": 55,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Cadian Command Squad",
+            "points": 65,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Cadian Command Squad",
+            "points": 65,
+            "enhancements": [],
+            "is_warlord": true
+          },
+          {
+            "name": "Catachan Command Squad",
+            "points": 65,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Ogryn Bodyguard",
+            "points": 40,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Ogryn Bodyguard",
+            "points": 40,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Ogryn Bodyguard",
+            "points": 40,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Rogal Dorn Commander",
+            "points": 275,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Rogal Dorn Commander ",
+            "points": 275,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "battleline": [
+          {
+            "name": "Cadian Shock Troops",
+            "points": 120,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Cadian Shock Troops",
+            "points": 120,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Catachan Jungle Fighters",
+            "points": 65,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Catachan Jungle Fighters",
+            "points": 65,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Catachan Jungle Fighters",
+            "points": 65,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "dedicated_transports": [
+          {
+            "name": "Chimera",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chimera",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chimera",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "other_datasheets": [
+          {
+            "name": "Kasrkin",
+            "points": 110,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Kasrkin",
+            "points": 110,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Kasrkin",
+            "points": 110,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "David Hall",
+          "army": "Adeptus Mechanicus",
+          "detachment": "haloscreed battle clade",
+          "opponentListuuid": "6911a5d9125a3c00beaee237",
+          "status": "victory",
+          "playerScore": "97",
+          "rivalScore": "51"
+        },
+        {
+          "player": "Michael Mann",
+          "army": "Space Wolves",
+          "detachment": "stormlance task force",
+          "opponentListuuid": "6911a5d9125a3c00beaee21e",
+          "status": "victory",
+          "playerScore": "84",
+          "rivalScore": "57"
+        },
+        {
+          "player": "Kyle McCord",
+          "army": "Dark Angels",
+          "detachment": "wrath of the rock",
+          "opponentListuuid": "6911a5d9125a3c00beaee18f",
+          "status": "defeat",
+          "playerScore": "77",
+          "rivalScore": "79"
+        },
+        {
+          "player": "Ben Cherwien",
+          "army": "Black Templars",
+          "detachment": "Gladius Task Force",
+          "opponentListuuid": "6911a5d9125a3c00beaee1fc",
+          "status": "victory",
+          "playerScore": "81",
+          "rivalScore": "63"
+        },
+        {
+          "player": "Jonas Beardsley",
+          "army": "Adeptus Mechanicus",
+          "detachment": "haloscreed battle clade",
+          "opponentListuuid": "6911a5d9125a3c00beaee1d2",
+          "status": "victory",
+          "playerScore": "90",
+          "rivalScore": "67"
+        },
+        {
+          "player": "Stefan Meertens",
+          "army": "Space Wolves",
+          "detachment": "stormlance task force",
+          "opponentListuuid": "6911a5d9125a3c00beaee1f0",
+          "status": "victory",
+          "playerScore": "71",
+          "rivalScore": "70"
+        },
+        {
+          "player": "Justin Moore",
+          "army": "Adeptus Mechanicus",
+          "detachment": "haloscreed battle clade",
+          "opponentListuuid": "6911a5d9125a3c00beaee1a6",
+          "status": "defeat",
+          "playerScore": "85",
+          "rivalScore": "100"
+        },
+        {
+          "player": "Conan Jennings",
+          "army": "Space Marines (Astartes)",
+          "detachment": "Shadowmark Talon",
+          "opponentListuuid": "6911a5d9125a3c00beaee1a1",
+          "status": "defeat",
+          "playerScore": "72",
+          "rivalScore": "100"
+        }
+      ],
+      "tags": [
+        "Cadian Castellan",
+        "Cadian Command Squad",
+        "Cadian Shock Troops",
+        "Catachan Command Squad",
+        "Catachan Jungle Fighters",
+        "Chimera",
+        "Kasrkin",
+        "Ogryn Bodyguard",
+        "Rogal Dorn Commander"
+      ]
+    },
+    {
+      "playerId": "6911a5d9125a3c00beaee1cb",
+      "playerName": "Jeffrey Kolodner",
+      "firstName": "Jeffrey",
+      "lastName": "Kolodner",
+      "rank": 68,
+      "army": "Adepta Sororitas",
+      "detachment": "hallowed martyrs",
+      "score": "5-3-0",
+      "list": {
+        "characters": [
+          {
+            "name": "Canoness",
+            "points": 60,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Jump Pack Canoness",
+            "points": 100,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Imagifier",
+            "points": 65,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Junith Eruita",
+            "points": 80,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Morvenn Vahl",
+            "points": 170,
+            "enhancements": [],
+            "is_warlord": true
+          },
+          {
+            "name": "Palatine",
+            "points": 50,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "battleline": [
+          {
+            "name": "Battle Sister Squad",
+            "points": 105,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Battle Sister Squad",
+            "points": 105,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "dedicated_transports": [
+          {
+            "name": "Immolator",
+            "points": 115,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "other_datasheets": [
+          {
+            "name": "Castigator",
+            "points": 160,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Castigator",
+            "points": 160,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Mortifier",
+            "points": 70,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Mortifier",
+            "points": 70,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Mortifier",
+            "points": 70,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Paragon Warsuits",
+            "points": 210,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Celestian Sacresancts",
+            "points": 130,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Sanctifiers",
+            "points": 100,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Zephyrim",
+            "points": 80,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Callidus Assassin",
+            "points": 80,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "Roger Boira",
+          "army": "T'Au Empire",
+          "detachment": "mont'ka",
+          "opponentListuuid": "6911a5d9125a3c00beaee1f6",
+          "status": "victory",
+          "playerScore": "83",
+          "rivalScore": "66"
+        },
+        {
+          "player": "Adam Lev",
+          "army": "Death Guard",
+          "detachment": "mortarion’s hammer",
+          "opponentListuuid": "6911a5d9125a3c00beaee2c9",
+          "status": "victory",
+          "playerScore": "96",
+          "rivalScore": "54"
+        },
+        {
+          "player": "Richard Grint",
+          "army": "Adeptus Mechanicus",
+          "detachment": "haloscreed battle clade",
+          "opponentListuuid": "6911a5d9125a3c00beaee1b4",
+          "status": "defeat",
+          "playerScore": "73",
+          "rivalScore": "91"
+        },
+        {
+          "player": "Hunter Nichols",
+          "army": "Space Wolves",
+          "detachment": "stormlance task force",
+          "opponentListuuid": "6911a5d9125a3c00beaee214",
+          "status": "victory",
+          "playerScore": "85",
+          "rivalScore": "64"
+        },
+        {
+          "player": "Hayden Walduck",
+          "army": "T'Au Empire",
+          "detachment": "mont'ka",
+          "opponentListuuid": "6911a5d9125a3c00beaee1f2",
+          "status": "victory",
+          "playerScore": "86",
+          "rivalScore": "42"
+        },
+        {
+          "player": "Charles Gould",
+          "army": "Space Marines (Astartes)",
+          "detachment": "Shadowmark Talon",
+          "opponentListuuid": "6911a5d9125a3c00beaee1f3",
+          "status": "victory",
+          "playerScore": "72",
+          "rivalScore": "48"
+        },
+        {
+          "player": "breney julien « Da_Gnol »",
+          "army": "Thousand Sons",
+          "detachment": "rubricae phalanx",
+          "opponentListuuid": "6911a5d9125a3c00beaee1ac",
+          "status": "defeat",
+          "playerScore": "74",
+          "rivalScore": "78"
+        },
+        {
+          "player": "Luis 'Terroxer' Balmori",
+          "army": "Thousand Sons",
+          "detachment": "grand coven",
+          "opponentListuuid": "6911a5d9125a3c00beaee1ae",
+          "status": "defeat",
+          "playerScore": "61",
+          "rivalScore": "86"
+        }
+      ],
+      "tags": [
+        "Canoness",
+        "Castigator",
+        "Imagifier",
+        "Immolator",
+        "Junith Eruita",
+        "Morvenn Vahl",
+        "Palatine",
+        "Paragon Warsuits",
+        "Sanctifiers",
+        "Callidus Assassin",
+        "Sanctifiers"
+      ]
+    },
+    {
+      "playerId": "6911a5d9125a3c00beaee1d3",
+      "playerName": "Robin (Lamar) Philippot",
+      "firstName": "Robin (Lamar)",
+      "lastName": "Philippot",
+      "rank": 76,
+      "army": "Adepta Sororitas",
+      "detachment": "champions of faith",
+      "score": "6-2-0",
+      "list": {
+        "characters": [
+          {
+            "name": "Morvenn Vahl",
+            "points": 170,
+            "enhancements": [],
+            "is_warlord": true
+          },
+          {
+            "name": "Triumph of Saint Katherine",
+            "points": 235,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Hospitaller",
+            "points": 50,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Hospitaller",
+            "points": 50,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Hospitaller",
+            "points": 50,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "battleline": [
+          {
+            "name": "Battle Sisters Squad",
+            "points": 105,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Battle Sisters Squad",
+            "points": 105,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Battle Sisters Squad",
+            "points": 105,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Battle Sisters Squad",
+            "points": 105,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "dedicated_transports": [],
+        "other_datasheets": [
+          {
+            "name": "Arco-Flagellants",
+            "points": 45,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Celestian Sacresants",
+            "points": 130,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Celestian Sacresants",
+            "points": 130,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Celestian Sacresants",
+            "points": 130,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Retributor Squad",
+            "points": 105,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Sanctifiers",
+            "points": 100,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Paragon Warsuits",
+            "points": 210,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Sororitas Rhino",
+            "points": 75,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Callidus Assassin",
+            "points": 100,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "Daniel Sansone",
+          "army": "Death Guard",
+          "detachment": "mortarion’s hammer",
+          "opponentListuuid": "6911a5d9125a3c00beaee25e",
+          "status": "victory",
+          "playerScore": "99",
+          "rivalScore": "58"
+        },
+        {
+          "player": "Thomas Byrd",
+          "army": "Space Marines (Astartes)",
+          "detachment": "Gladius Task Force",
+          "opponentListuuid": "6911a5d9125a3c00beaee1df",
+          "status": "victory",
+          "playerScore": "82",
+          "rivalScore": "64"
+        },
+        {
+          "player": "Collin Cochran",
+          "army": "Death Guard",
+          "detachment": "Virulent Vectorium",
+          "opponentListuuid": "6911a5d9125a3c00beaee1e9",
+          "status": "victory",
+          "playerScore": "94",
+          "rivalScore": "58"
+        },
+        {
+          "player": "Mike Muzeni",
+          "army": "Thousand Sons",
+          "detachment": "rubricae phalanx",
+          "opponentListuuid": "6911a5d9125a3c00beaee207",
+          "status": "victory",
+          "playerScore": "75",
+          "rivalScore": "68"
+        },
+        {
+          "player": "Daniele De Gemini",
+          "army": "T'Au Empire",
+          "detachment": "retaliation cadre",
+          "opponentListuuid": "6911a5d9125a3c00beaee1d8",
+          "status": "victory",
+          "playerScore": "90",
+          "rivalScore": "59"
+        },
+        {
+          "player": "Shaun Reynolds",
+          "army": "Adeptus Mechanicus",
+          "detachment": "skitarii hunter cohort",
+          "opponentListuuid": "6911a5d9125a3c00beaee1b9",
+          "status": "defeat",
+          "playerScore": "34",
+          "rivalScore": "83"
+        },
+        {
+          "player": "Kody Drake",
+          "army": "Genestealers Cult",
+          "detachment": "biosanctic broodsurge",
+          "opponentListuuid": "6911a5d9125a3c00beaee1e4",
+          "status": "victory",
+          "playerScore": "67",
+          "rivalScore": "63"
+        },
+        {
+          "player": "Björn Eriksson",
+          "army": "Chaos Knights",
+          "detachment": "infernal lance",
+          "opponentListuuid": "6911a5d9125a3c00beaee1b1",
+          "status": "defeat",
+          "playerScore": "59",
+          "rivalScore": "90"
+        }
+      ],
+      "tags": [
+        "Arco-flagellants",
+        "Battle Sisters Squad",
+        "Celestian Sacresants",
+        "Hospitaller",
+        "Morvenn Vahl",
+        "Paragon Warsuits",
+        "Retributor Squad",
+        "Sanctifiers",
+        "Sororitas Rhino",
+        "Triumph of Saint Katherine",
+        "Callidus Assassin",
+        "Sanctifiers"
+      ]
+    },
+    {
+      "playerId": "6911a5d9125a3c00beaee22e",
+      "playerName": "Tyler Principio",
+      "firstName": "Tyler",
+      "lastName": "Principio",
+      "rank": 167,
+      "army": "Black Templars",
+      "detachment": "Gladius Task Force",
+      "score": "4-3-1",
+      "list": {
+        "characters": [
+          {
+            "name": "Castellan",
+            "points": 60,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Castellan",
+            "points": 60,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Castellan",
+            "points": 60,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Emperor's Champion",
+            "points": 105,
+            "enhancements": ["The Honour Vehement"],
+            "is_warlord": false
+          },
+          {
+            "name": "Lieutenant with Combi-weapon",
+            "points": 70,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Marshal",
+            "points": 90,
+            "enhancements": ["Artificer Armour"],
+            "is_warlord": true
+          },
+          {
+            "name": "Marshal",
+            "points": 80,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "battleline": [
+          {
+            "name": "Assault Intercessor Squad",
+            "points": 75,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Intercessor Squad",
+            "points": 80,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Assault Intercessors with Jump Packs",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Incursor Squad",
+            "points": 80,
+            "enhancements": ["Haywire Mine"],
+            "is_warlord": false
+          },
+          {
+            "name": "Scout Squad",
+            "points": 70,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Sword Brethren",
+            "points": 130,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Sword Brethren",
+            "points": 130,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Sword Brethren",
+            "points": 105,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "dedicated_transports": [
+          {
+            "name": "Black Templars Impulsor",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Black Templars Impulsor",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Black Templars Repulsor Executioner",
+            "points": 220,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Black Templars Repulsor Executioner",
+            "points": 220,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "other_datasheets": [
+          {
+            "name": "Callidus Assassin",
+            "points": 100,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "Sumaythang Srianonantakij",
+          "army": "Imperial Knights",
+          "detachment": "Spearhead-at-Arms",
+          "opponentListuuid": "6911a5d9125a3c00beaee199",
+          "status": "defeat",
+          "playerScore": "62",
+          "rivalScore": "100"
+        },
+        {
+          "player": "Alexandre Dombrowski",
+          "army": "Death Guard",
+          "detachment": "mortarion’s hammer",
+          "opponentListuuid": "6911a5d9125a3c00beaee2fb",
+          "status": "victory",
+          "playerScore": "100",
+          "rivalScore": "27"
+        },
+        {
+          "player": "David Testa",
+          "army": "Genestealers Cult",
+          "detachment": "final day",
+          "opponentListuuid": "6911a5d9125a3c00beaee26b",
+          "status": "victory",
+          "playerScore": "91",
+          "rivalScore": "64"
+        },
+        {
+          "player": "Chris Cho",
+          "army": "Chaos Knights",
+          "detachment": "infernal lance",
+          "opponentListuuid": "6911a5d9125a3c00beaee1f5",
+          "status": "defeat",
+          "playerScore": "64",
+          "rivalScore": "82"
+        },
+        {
+          "player": "Fritz Peters",
+          "army": "Necrons",
+          "detachment": "starshatter arsenal",
+          "opponentListuuid": "6911a5d9125a3c00beaee209",
+          "status": "draw",
+          "playerScore": "68",
+          "rivalScore": "68"
+        },
+        {
+          "player": "Francis Fernandez",
+          "army": "Aeldari",
+          "detachment": "Aspect Host",
+          "opponentListuuid": "6911a5d9125a3c00beaee27a",
+          "status": "victory",
+          "playerScore": "85",
+          "rivalScore": "43"
+        },
+        {
+          "player": "Marco Pinamonti",
+          "army": "Space Marines (Astartes)",
+          "detachment": "Gladius Task Force",
+          "opponentListuuid": "6911a5d9125a3c00beaee212",
+          "status": "defeat",
+          "playerScore": "73",
+          "rivalScore": "98"
+        },
+        {
+          "player": "Josh Stapleton",
+          "army": "Adepta Sororitas",
+          "detachment": "hallowed martyrs",
+          "opponentListuuid": "6911a5d9125a3c00beaee263",
+          "status": "victory",
+          "playerScore": "89",
+          "rivalScore": "86"
+        }
+      ],
+      "tags": [
+        "Black Templars Impulsor",
+        "Black Templars Repulsor",
+        "Black Templars Repulsor Executioner",
+        "Castellan",
+        "Marshal",
+        "Assault Intercessor Squad",
+        "Assault Intercessors with Jump Packs",
+        "Impulsor",
+        "Incursor Squad",
+        "Intercessor Squad",
+        "Lieutenant",
+        "Lieutenant with Combi-weapon",
+        "Repulsor",
+        "Repulsor Executioner",
+        "Scout Squad"
+      ]
+    },
+    {
+      "playerId": "6911a5d9125a3c00beaee23a",
+      "playerName": "Maxime Rampen",
+      "firstName": "Maxime",
+      "lastName": "Rampen",
+      "rank": 179,
+      "army": "Chaos Space Marines",
+      "detachment": "veterans of the long war",
+      "score": "4-4-0",
+      "list": {
+        "characters": [
+          {
+            "name": "Cypher",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": true
+          },
+          {
+            "name": "Fabius Bile",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Lord",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Lord Discordant on Helstalker",
+            "points": 160,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "battleline": [
+          {
+            "name": "Cultist Mob",
+            "points": 50,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Legionaries",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "dedicated_transports": [
+          {
+            "name": "Chaos Rhino",
+            "points": 75,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Rhino",
+            "points": 75,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "other_datasheets": [
+          {
+            "name": "Chosen",
+            "points": 250,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Noise Marines",
+            "points": 145,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Obliterators",
+            "points": 160,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Obliterators",
+            "points": 160,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Obliterators",
+            "points": 160,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Warp Talons",
+            "points": 270,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Predator Destructor",
+            "points": 140,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "Evan Stump",
+          "army": "Space Marines (Astartes)",
+          "detachment": "Shadowmark Talon",
+          "opponentListuuid": "6911a5d9125a3c00beaee206",
+          "status": "defeat",
+          "playerScore": "48",
+          "rivalScore": "98"
+        },
+        {
+          "player": "Paulie Wallis",
+          "army": "Drukhari",
+          "detachment": "Reaper's Wager",
+          "opponentListuuid": "6911a5d9125a3c00beaee269",
+          "status": "defeat",
+          "playerScore": "61",
+          "rivalScore": "64"
+        },
+        {
+          "player": "Lasse Eikenes",
+          "army": "Chaos Knights",
+          "detachment": "infernal lance",
+          "opponentListuuid": "6911a5d9125a3c00beaee2e5",
+          "status": "victory",
+          "playerScore": "83",
+          "rivalScore": "52"
+        },
+        {
+          "player": "Aaron Rider",
+          "army": "Black Templars",
+          "detachment": "Companions of Vehemence",
+          "opponentListuuid": "6911a5d9125a3c00beaee311",
+          "status": "victory",
+          "playerScore": "85",
+          "rivalScore": "72"
+        },
+        {
+          "player": "Jonathan Arkin",
+          "army": "Dark Angels",
+          "detachment": "wrath of the rock",
+          "opponentListuuid": "6911a5d9125a3c00beaee22a",
+          "status": "victory",
+          "playerScore": "79",
+          "rivalScore": "70"
+        },
+        {
+          "player": "Sascha Alexander Edelkraut",
+          "army": "Chaos Space Marines",
+          "detachment": "creations of bile",
+          "opponentListuuid": "6911a5d9125a3c00beaee223",
+          "status": "defeat",
+          "playerScore": "42",
+          "rivalScore": "56"
+        },
+        {
+          "player": "eduardo villarreal",
+          "army": "Orks",
+          "detachment": "war horde",
+          "opponentListuuid": "6911a5d9125a3c00beaee278",
+          "status": "victory",
+          "playerScore": "79",
+          "rivalScore": "52"
+        },
+        {
+          "player": "Michael Mann",
+          "army": "Space Wolves",
+          "detachment": "stormlance task force",
+          "opponentListuuid": "6911a5d9125a3c00beaee21e",
+          "status": "defeat",
+          "playerScore": "37",
+          "rivalScore": "88"
+        }
+      ],
+      "tags": [
+        "Chaos Lord",
+        "Chaos Predator Destructor",
+        "Chaos Rhino",
+        "Chosen",
+        "Cultist Mob",
+        "Cypher",
+        "Fabius Bile",
+        "Legionaries",
+        "Lord Discordant on Helstalker",
+        "Obliterators",
+        "Warp Talons"
+      ]
+    },
+    {
+      "playerId": "6911a5d9125a3c00beaee240",
+      "playerName": "Jolan ALLIX",
+      "firstName": "Jolan",
+      "lastName": "ALLIX",
+      "rank": 185,
+      "army": "Astra Militarum",
+      "detachment": "combined arms",
+      "score": "4-4-0",
+      "list": {
+        "characters": [
+          {
+            "name": "Cadian Castellan",
+            "points": 55,
+            "enhancements": [],
+            "is_warlord": true
+          },
+          {
+            "name": "Cadian Command Squad",
+            "points": 65,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Rogal Dorn Commander",
+            "points": 275,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Rogal Dorn Commander",
+            "points": 275,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "battleline": [
+          {
+            "name": "Cadian Shock Troops",
+            "points": 120,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Cadian Shock Troops",
+            "points": 65,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Catachan Jungle Fighters",
+            "points": 65,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "dedicated_transports": [
+          {
+            "name": "Chimera",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chimera",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Taurox",
+            "points": 75,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "other_datasheets": [
+          {
+            "name": "Bullgryn Squad",
+            "points": 200,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Bullgryn Squad",
+            "points": 200,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Kasrkin",
+            "points": 110,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Kasrkin",
+            "points": 110,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Ratlings",
+            "points": 60,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Scout Sentinels",
+            "points": 55,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Callidus Assassin",
+            "points": 100,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "Zachary Morales",
+          "army": "Space Marines (Astartes)",
+          "detachment": "ironstorm spearhead",
+          "opponentListuuid": "6911a5d9125a3c00beaee23c",
+          "status": "defeat",
+          "playerScore": "64",
+          "rivalScore": "88"
+        },
+        {
+          "player": "Eric Tadt",
+          "army": "Genestealers Cult",
+          "detachment": "final day",
+          "opponentListuuid": "6911a5d9125a3c00beaee254",
+          "status": "defeat",
+          "playerScore": "70",
+          "rivalScore": "80"
+        },
+        {
+          "player": "Chris Adams",
+          "army": "Death Guard",
+          "detachment": "Virulent Vectorium",
+          "opponentListuuid": "6911a5d9125a3c00beaee2f2",
+          "status": "victory",
+          "playerScore": "100",
+          "rivalScore": "15"
+        },
+        {
+          "player": "T Chambliss",
+          "army": "Adepta Sororitas",
+          "detachment": "army of faith",
+          "opponentListuuid": "6911a5d9125a3c00beaee29f",
+          "status": "victory",
+          "playerScore": "77",
+          "rivalScore": "71"
+        },
+        {
+          "player": "Devin Orchard",
+          "army": "Necrons",
+          "detachment": "starshatter arsenal",
+          "opponentListuuid": "6911a5d9125a3c00beaee291",
+          "status": "victory",
+          "playerScore": "67",
+          "rivalScore": "61"
+        },
+        {
+          "player": "Antoine Boivin",
+          "army": "Grey Knights",
+          "detachment": "Warpbane Task Force",
+          "opponentListuuid": "6911a5d9125a3c00beaee23b",
+          "status": "victory",
+          "playerScore": "53",
+          "rivalScore": "51"
+        },
+        {
+          "player": "jun hong",
+          "army": "Adepta Sororitas",
+          "detachment": "hallowed martyrs",
+          "opponentListuuid": "6911a5d9125a3c00beaee215",
+          "status": "defeat",
+          "playerScore": "61",
+          "rivalScore": "77"
+        },
+        {
+          "player": "Sascha Alexander Edelkraut",
+          "army": "Chaos Space Marines",
+          "detachment": "creations of bile",
+          "opponentListuuid": "6911a5d9125a3c00beaee223",
+          "status": "defeat",
+          "playerScore": "61",
+          "rivalScore": "80"
+        }
+      ],
+      "tags": [
+        "Bullgryn Squad",
+        "Cadian Castellan",
+        "Cadian Command Squad",
+        "Cadian Shock Troops",
+        "Catachan Jungle Fighters",
+        "Chimera",
+        "Kasrkin",
+        "Ratlings",
+        "Rogal Dorn Commander",
+        "Scout Sentinels",
+        "Taurox",
+        "Callidus Assassin"
+      ]
+    },
+    {
+      "playerId": "6911a5d9125a3c00beaee26f",
+      "playerName": "rOBIN rOBERTS",
+      "firstName": "rOBIN",
+      "lastName": "rOBERTS",
+      "rank": 232,
+      "army": "Genestealers Cult",
+      "detachment": "host of ascension",
+      "score": "3-5-0",
+      "list": {
+        "characters": [
+          {
+            "name": "Benefictus",
+            "points": 70,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Benefictus",
+            "points": 70,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Jackal Alphus",
+            "points": 55,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Locus",
+            "points": 45,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Nexos",
+            "points": 60,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Patriarch",
+            "points": 75,
+            "enhancements": [],
+            "is_warlord": true
+          },
+          {
+            "name": "Primus",
+            "points": 90,
+            "enhancements": ["A Chink In Their Armour"],
+            "is_warlord": false
+          },
+          {
+            "name": "Reductus Saboteur",
+            "points": 65,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Reductus Saboteur ",
+            "points": 65,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Sanctus",
+            "points": 50,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "battleline": [
+          {
+            "name": "Acolyte Hybrids with Autopistols",
+            "points": 130,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Acolyte Hybrids with Hand Flamers",
+            "points": 140,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Acolyte Hybrids with Hand Flamers",
+            "points": 70,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Neophyte Hybrids",
+            "points": 145,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Neophyte Hybrids",
+            "points": 145,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "dedicated_transports": [],
+        "other_datasheets": [
+          {
+            "name": "Achilles Ridgerunners",
+            "points": 170,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Achilles Ridgerunners",
+            "points": 95,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Atalan Jackals",
+            "points": 150,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Atalan Jackals",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Purestrain Genestealers",
+            "points": 140,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Purestrain Genestealers",
+            "points": 75,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "Jason Crepin",
+          "army": "T'Au Empire",
+          "detachment": "experimental prototype cadre",
+          "opponentListuuid": "6911a5d9125a3c00beaee318",
+          "status": "victory",
+          "playerScore": "100",
+          "rivalScore": "74"
+        },
+        {
+          "player": "Heikki Puska",
+          "army": "World Eaters",
+          "detachment": "berzerker warband",
+          "opponentListuuid": "6911a5d9125a3c00beaee2d9",
+          "status": "victory",
+          "playerScore": "86",
+          "rivalScore": "55"
+        },
+        {
+          "player": "Stephen Mitchell",
+          "army": "Chaos Space Marines",
+          "detachment": "renegade raiders",
+          "opponentListuuid": "6911a5d9125a3c00beaee1c9",
+          "status": "defeat",
+          "playerScore": "69",
+          "rivalScore": "72"
+        },
+        {
+          "player": "Idavoll Heimdall",
+          "army": "Necrons",
+          "detachment": "obeisance phalanx",
+          "opponentListuuid": "6911a5d9125a3c00beaee1a0",
+          "status": "defeat",
+          "playerScore": "43",
+          "rivalScore": "98"
+        },
+        {
+          "player": "Dustin Hammond",
+          "army": "Imperial Knights",
+          "detachment": "Spearhead-at-Arms",
+          "opponentListuuid": "6911a5d9125a3c00beaee218",
+          "status": "defeat",
+          "playerScore": "39",
+          "rivalScore": "99"
+        },
+        {
+          "player": "Jake Chalmers",
+          "army": "Chaos Daemons",
+          "detachment": "daemonic incursion",
+          "opponentListuuid": "6911a5d9125a3c00beaee225",
+          "status": "defeat",
+          "playerScore": "60",
+          "rivalScore": "90"
+        },
+        {
+          "player": "Carlos Lopez",
+          "army": "Death Guard",
+          "detachment": "Virulent Vectorium",
+          "opponentListuuid": "6911a5d9125a3c00beaee292",
+          "status": "victory",
+          "playerScore": "85",
+          "rivalScore": "67"
+        },
+        {
+          "player": "Robin \"RtheKnight\" Lechevalier",
+          "army": "Chaos Space Marines",
+          "detachment": "renegade raiders",
+          "opponentListuuid": "6911a5d9125a3c00beaee262",
+          "status": "defeat",
+          "playerScore": "48",
+          "rivalScore": "86"
+        }
+      ],
+      "tags": [
+        "Achilles Ridgerunners",
+        "Acolyte Hybrids with Autopistols",
+        "Acolyte Hybrids with Hand Flamers",
+        "Atalan Jackals",
+        "Benefictus",
+        "Jackal Alphus",
+        "Locus",
+        "Neophyte Hybrids",
+        "Nexos",
+        "Patriarch",
+        "Primus",
+        "Purestrain Genestealers",
+        "Reductus Saboteur",
+        "Sanctus",
+        "Genestealers"
+      ]
+    },
+    {
+      "playerId": "6911a5d9125a3c00beaee27f",
+      "playerName": "Walter Langendorf",
+      "firstName": "Walter",
+      "lastName": "Langendorf",
+      "rank": 248,
+      "army": "Necrons",
+      "detachment": "awakened dynasty",
+      "score": "3-5-0",
+      "list": {
+        "characters": [
+          {
+            "name": "Catacomb Command Barge",
+            "points": 150,
+            "enhancements": [
+              "Enaegic Dermal Bond (+30 pts)"
+            ],
+            "is_warlord": false
+          },
+          {
+            "name": "Lokhust Lord",
+            "points": 80,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Psychomancer",
+            "points": 55,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Psychomancer",
+            "points": 55,
+            "enhancements": [],
+            "is_warlord": true
+          },
+          {
+            "name": "Psychomancer",
+            "points": 55,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Skorpekh Lord",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Skorpekh Lord",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Skorpekh Lord",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Technomancer",
+            "points": 100,
+            "enhancements": [
+              "Nether-realm Casket (+20 pts)"
+            ],
+            "is_warlord": false
+          }
+        ],
+        "battleline": [],
+        "dedicated_transports": [],
+        "other_datasheets": [
+          {
+            "name": "Flayed Ones",
+            "points": 60,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Skorpekh Destroyers",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Skorpekh Destroyers",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Skorpekh Destroyers",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Canoptek Scarab Swarms",
+            "points": 40,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Canoptek Scarab Swarms",
+            "points": 40,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Canoptek Scarab Swarms",
+            "points": 40,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Lokhust Destroyers",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Canoptek Wraiths",
+            "points": 220,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Canoptek Reanimator",
+            "points": 75,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Doomsday Ark",
+            "points": 200,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Doomsday Ark",
+            "points": 200,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "Jordan Galaugher",
+          "army": "World Eaters",
+          "detachment": "berzerker warband",
+          "opponentListuuid": "6911a5d9125a3c00beaee2d7",
+          "status": "defeat",
+          "playerScore": "80",
+          "rivalScore": "84"
+        },
+        {
+          "player": "Sepian Wang",
+          "army": "Imperial Knights",
+          "detachment": "Spearhead-at-Arms",
+          "opponentListuuid": "6911a5d9125a3c00beaee26e",
+          "status": "defeat",
+          "playerScore": "78",
+          "rivalScore": "82"
+        },
+        {
+          "player": "Santi Lema",
+          "army": "Blood Angels",
+          "detachment": "liberator assault group",
+          "opponentListuuid": "6911a5d9125a3c00beaee317",
+          "status": "victory",
+          "playerScore": "98",
+          "rivalScore": "45"
+        },
+        {
+          "player": "Stephen Walker",
+          "army": "Death Guard",
+          "detachment": "tallyband summoners",
+          "opponentListuuid": "6911a5d9125a3c00beaee2ed",
+          "status": "victory",
+          "playerScore": "95",
+          "rivalScore": "68"
+        },
+        {
+          "player": "Tyler Stice",
+          "army": "Deathwatch",
+          "detachment": "black spear task force",
+          "opponentListuuid": "6911a5d9125a3c00beaee260",
+          "status": "defeat",
+          "playerScore": "44",
+          "rivalScore": "89"
+        },
+        {
+          "player": "Dejan Filipovic",
+          "army": "Necrons",
+          "detachment": "starshatter arsenal",
+          "opponentListuuid": "6911a5d9125a3c00beaee27b",
+          "status": "victory",
+          "playerScore": "80",
+          "rivalScore": "43"
+        },
+        {
+          "player": "Jonathan Arkin",
+          "army": "Dark Angels",
+          "detachment": "wrath of the rock",
+          "opponentListuuid": "6911a5d9125a3c00beaee22a",
+          "status": "defeat",
+          "playerScore": "50",
+          "rivalScore": "93"
+        },
+        {
+          "player": "Kasra Houshidar",
+          "army": "Space Marines (Astartes)",
+          "detachment": "stormlance task force",
+          "opponentListuuid": "6911a5d9125a3c00beaee261",
+          "status": "defeat",
+          "playerScore": "58",
+          "rivalScore": "90"
+        }
+      ],
+      "tags": [
+        "Canoptek Reanimator",
+        "Canoptek Scarab Swarms",
+        "Canoptek Wraiths",
+        "Catacomb Command Barge",
+        "Doomsday Ark",
+        "Flayed Ones",
+        "Lokhust Destroyers",
+        "Lokhust Lord",
+        "Overlord",
+        "Psychomancer",
+        "Skorpekh Destroyers",
+        "Skorpekh Lord",
+        "Technomancer"
+      ]
+    },
+    {
+      "playerId": "6911a5d9125a3c00beaee29d",
+      "playerName": "Adrien (Byolix) Marczak",
+      "firstName": "Adrien (Byolix)",
+      "lastName": "Marczak",
+      "rank": 278,
+      "army": "Chaos Space Marines",
+      "detachment": "renegade raiders",
+      "score": "5-2-1",
+      "list": {
+        "characters": [
+          {
+            "name": "Fabius Bile",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": true
+          },
+          {
+            "name": "Cypher",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Lord",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "battleline": [
+          {
+            "name": "Cultist Mob",
+            "points": 50,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Legionaries",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Legionaries",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "dedicated_transports": [
+          {
+            "name": "Chaos Rhino",
+            "points": 75,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Rhino",
+            "points": 75,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Rhino",
+            "points": 75,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "other_datasheets": [
+          {
+            "name": "Chaos Bikers",
+            "points": 70,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Bikers",
+            "points": 70,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Bikers",
+            "points": 70,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Predator Destructor",
+            "points": 140,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Predator Destructor",
+            "points": 140,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Predator Destructor",
+            "points": 140,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chosen",
+            "points": 250,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Noise Marines",
+            "points": 145,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Noise Marines",
+            "points": 145,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Rubric Marines",
+            "points": 105,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "Dustin Hammond",
+          "army": "Imperial Knights",
+          "detachment": "Spearhead-at-Arms",
+          "opponentListuuid": "6911a5d9125a3c00beaee218",
+          "status": "defeat",
+          "playerScore": "66",
+          "rivalScore": "81"
+        },
+        {
+          "player": "Kody Drake",
+          "army": "Genestealers Cult",
+          "detachment": "biosanctic broodsurge",
+          "opponentListuuid": "6911a5d9125a3c00beaee1e4",
+          "status": "defeat",
+          "playerScore": "19",
+          "rivalScore": "91"
+        },
+        {
+          "player": "Sebastien Potvin",
+          "army": "Chaos Knights",
+          "detachment": "infernal lance",
+          "opponentListuuid": "6911a5d9125a3c00beaee2ac",
+          "status": "draw",
+          "playerScore": "66",
+          "rivalScore": "66"
+        },
+        {
+          "player": "Thom Dues",
+          "army": "Death Guard",
+          "detachment": "champions of contagion",
+          "opponentListuuid": "6911a5d9125a3c00beaee319",
+          "status": "victory",
+          "playerScore": "86",
+          "rivalScore": "44"
+        },
+        {
+          "player": "Juan Alzate",
+          "army": "Drukhari",
+          "detachment": "Reaper's Wager",
+          "opponentListuuid": "6911a5d9125a3c00beaee2e6",
+          "status": "victory",
+          "playerScore": "87",
+          "rivalScore": "35"
+        },
+        {
+          "player": "Jordan Mattheus",
+          "army": "Tyranids",
+          "detachment": "vanguard onslaught",
+          "opponentListuuid": "6911a5d9125a3c00beaee2de",
+          "status": "victory",
+          "playerScore": "54",
+          "rivalScore": "37"
+        },
+        {
+          "player": "Zach Bolger",
+          "army": "Adepta Sororitas",
+          "detachment": "hallowed martyrs",
+          "opponentListuuid": "6911a5d9125a3c00beaee2c3",
+          "status": "victory",
+          "playerScore": "88",
+          "rivalScore": "42"
+        },
+        {
+          "player": "Jean-Philippe Lafond",
+          "army": "Aeldari",
+          "detachment": "Aspect Host",
+          "opponentListuuid": "6911a5d9125a3c00beaee2a7",
+          "status": "victory",
+          "playerScore": "100",
+          "rivalScore": "30"
+        }
+      ],
+      "tags": [
+        "Chaos Bikers",
+        "Chaos Lord",
+        "Chaos Predator Destructor",
+        "Chaos Rhino",
+        "Chosen",
+        "Cultist Mob",
+        "Cypher",
+        "Fabius Bile",
+        "Legionaries",
+        "Sorcerer"
+      ]
+    },
+    {
+      "playerId": "6911a5d9125a3c00beaee29e",
+      "playerName": "Josh \"Git Gud\" E.",
+      "firstName": "Josh \"Git Gud\"",
+      "lastName": "E.",
+      "rank": 279,
+      "army": "World Eaters",
+      "detachment": "berzerker warband",
+      "score": "4-4-0",
+      "list": {
+        "characters": [
+          {
+            "name": "Khârn the Betrayer",
+            "points": 100,
+            "enhancements": [],
+            "is_warlord": true
+          },
+          {
+            "name": "Lord Invocatus",
+            "points": 110,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Lord on Juggernaut",
+            "points": 105,
+            "enhancements": [
+              "Favoured of Khorne (+15 pts)"
+            ],
+            "is_warlord": false
+          },
+          {
+            "name": "Master of Executions",
+            "points": 85,
+            "enhancements": [
+              "Berzerker Glaive (+25 pts)"
+            ],
+            "is_warlord": false
+          },
+          {
+            "name": "Khorne Berzerkers",
+            "points": 360,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "battleline": [
+          {
+            "name": "Khorne Berzerkers",
+            "points": 180,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Khorne Berzerkers",
+            "points": 360,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Khorne Berzerkers",
+            "points": 180,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "dedicated_transports": [
+          {
+            "name": "Chaos Rhino",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Rhino",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "other_datasheets": [
+          {
+            "name": "Jakhals",
+            "points": 65,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Spawn",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Spawn",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Spawn",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "David Coren",
+          "army": "World Eaters",
+          "detachment": "berzerker warband",
+          "opponentListuuid": "6911a5d9125a3c00beaee2b6",
+          "status": "defeat",
+          "playerScore": "51",
+          "rivalScore": "88"
+        },
+        {
+          "player": "Niklas Fritschen",
+          "army": "Chaos Daemons",
+          "detachment": "scintillating legion",
+          "opponentListuuid": "6911a5d9125a3c00beaee22c",
+          "status": "defeat",
+          "playerScore": "30",
+          "rivalScore": "91"
+        },
+        {
+          "player": "Antonio Biello",
+          "army": "Orks",
+          "detachment": "war horde",
+          "opponentListuuid": "6911a5d9125a3c00beaee2d5",
+          "status": "victory",
+          "playerScore": "92",
+          "rivalScore": "69"
+        },
+        {
+          "player": "Oscar Ruiz",
+          "army": "Death Guard",
+          "detachment": "tallyband summoners",
+          "opponentListuuid": "6911a5d9125a3c00beaee21d",
+          "status": "defeat",
+          "playerScore": "69",
+          "rivalScore": "100"
+        },
+        {
+          "player": "Tommy Rust",
+          "army": "Death Guard",
+          "detachment": "Virulent Vectorium",
+          "opponentListuuid": "6911a5d9125a3c00beaee2b1",
+          "status": "victory",
+          "playerScore": "81",
+          "rivalScore": "56"
+        },
+        {
+          "player": "Jorge Latorre",
+          "army": "Drukhari",
+          "detachment": "Reaper's Wager",
+          "opponentListuuid": "6911a5d9125a3c00beaee2c6",
+          "status": "victory",
+          "playerScore": "81",
+          "rivalScore": "49"
+        },
+        {
+          "player": "Simon (Aiko) RIVRY-COAT",
+          "army": "Drukhari",
+          "detachment": "Reaper's Wager",
+          "opponentListuuid": "6911a5d9125a3c00beaee2c0",
+          "status": "victory",
+          "playerScore": "86",
+          "rivalScore": "64"
+        },
+        {
+          "player": "Jacob Holmström",
+          "army": "Tyranids",
+          "detachment": "invasion fleet",
+          "opponentListuuid": "6911a5d9125a3c00beaee29a",
+          "status": "defeat",
+          "playerScore": "75",
+          "rivalScore": "80"
+        }
+      ],
+      "tags": [
+        "Chaos Rhino",
+        "Chaos Spawn",
+        "Jakhals",
+        "Khârn the Betrayer",
+        "Khorne Berzerkers",
+        "Lord Invocatus",
+        "Lord on Juggernaut",
+        "Master of Executions"
+      ]
+    },
+    {
+      "playerId": "6911a5d9125a3c00beaee2b3",
+      "playerName": "Trent Mazer",
+      "firstName": "Trent",
+      "lastName": "Mazer",
+      "rank": 300,
+      "army": "T'Au Empire",
+      "detachment": "mont'ka",
+      "score": "4-4-0",
+      "list": {
+        "characters": [
+          {
+            "name": "Ethereal",
+            "points": 65,
+            "enhancements": [
+              "Strategic Conqueror (+15 pts)"
+            ],
+            "is_warlord": true
+          },
+          {
+            "name": "Ethereal",
+            "points": 75,
+            "enhancements": [
+              "Strike Swiftly (+25 pts)"
+            ],
+            "is_warlord": false
+          }
+        ],
+        "battleline": [],
+        "dedicated_transports": [
+          {
+            "name": "Devilfish",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "other_datasheets": [
+          {
+            "name": "Pathfinder Team",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Pathfinder Team",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Pathfinder Team",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Stealth Battlesuits",
+            "points": 80,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Stealth Battlesuits",
+            "points": 80,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Vespid Stingwings",
+            "points": 65,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Vespid Stingwings",
+            "points": 65,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Ghostkeel Battlesuit",
+            "points": 160,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Hammerhead Gunship",
+            "points": 145,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Piranha",
+            "points": 60,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Riptide Battlesuit",
+            "points": 190,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Riptide Battlesuit",
+            "points": 190,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Riptide Battlesuit",
+            "points": 190,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Sky Ray Gunship",
+            "points": 140,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Sky Ray Gunship",
+            "points": 140,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "Kevin Fontana",
+          "army": "Space Marines (Astartes)",
+          "detachment": "Shadowmark Talon",
+          "opponentListuuid": "6911a5d9125a3c00beaee2dc",
+          "status": "defeat",
+          "playerScore": "76",
+          "rivalScore": "89"
+        },
+        {
+          "player": "Scotty Bee",
+          "army": "Necrons",
+          "detachment": "starshatter arsenal",
+          "opponentListuuid": "6911a5d9125a3c00beaee1c1",
+          "status": "defeat",
+          "playerScore": "67",
+          "rivalScore": "88"
+        },
+        {
+          "player": "Loukas Benard",
+          "army": "Genestealers Cult",
+          "detachment": "host of ascension",
+          "opponentListuuid": "6911a5d9125a3c00beaee268",
+          "status": "defeat",
+          "playerScore": "56",
+          "rivalScore": "95"
+        },
+        {
+          "player": "Isaac Gutierrez",
+          "army": "Chaos Daemons",
+          "detachment": "Shadow Legion",
+          "opponentListuuid": "6911a5d9125a3c00beaee315",
+          "status": "victory",
+          "playerScore": "90",
+          "rivalScore": "63"
+        },
+        {
+          "player": "Kennith! Onyeabor",
+          "army": "Tyranids",
+          "detachment": "subterranean assault",
+          "opponentListuuid": "6911a5d9125a3c00beaee2a5",
+          "status": "defeat",
+          "playerScore": "54",
+          "rivalScore": "81"
+        },
+        {
+          "player": "James Cummings",
+          "army": "Leagues of Votann",
+          "detachment": "Hearthband",
+          "opponentListuuid": "6911a5d9125a3c00beaee2f0",
+          "status": "victory",
+          "playerScore": "100",
+          "rivalScore": "31"
+        },
+        {
+          "player": "Lucas Gil",
+          "army": "Adeptus Custodes",
+          "detachment": "lions of the emperor",
+          "opponentListuuid": "6911a5d9125a3c00beaee2df",
+          "status": "victory",
+          "playerScore": "76",
+          "rivalScore": "64"
+        },
+        {
+          "player": "Erin Brandson",
+          "army": "Blood Angels",
+          "detachment": "liberator assault group",
+          "opponentListuuid": "6911a5d9125a3c00beaee2cd",
+          "status": "victory",
+          "playerScore": "75",
+          "rivalScore": "66"
+        }
+      ],
+      "tags": [
+        "Devilfish",
+        "Ethereal",
+        "Ghostkeel Battlesuit",
+        "Hammerhead Gunship",
+        "Pathfinder Team",
+        "Riptide Battlesuit",
+        "Sky Ray Gunship",
+        "Stealth Battlesuits",
+        "Vespid Stingwings"
+      ]
+    },
+    {
+      "playerId": "6911a5d9125a3c00beaee2b6",
+      "playerName": "David Coren",
+      "firstName": "David",
+      "lastName": "Coren",
+      "rank": 303,
+      "army": "World Eaters",
+      "detachment": "berzerker warband",
+      "score": "4-4-0",
+      "list": {
+        "characters": [
+          {
+            "name": "Daemon Prince of Khorne",
+            "points": 220,
+            "enhancements": [
+              "Helm of Brazen Ire"
+            ],
+            "is_warlord": true
+          },
+          {
+            "name": "Khârn the Betrayer",
+            "points": 100,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Master of Executions",
+            "points": 85,
+            "enhancements": [
+              "Berzerker Glaive"
+            ],
+            "is_warlord": false
+          },
+          {
+            "name": "Slaughterbound",
+            "points": 100,
+            "enhancements": [
+              "Favoured of Khorne"
+            ],
+            "is_warlord": false
+          },
+          {
+            "name": "Slaughterbound",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "battleline": [
+          {
+            "name": "Khorne Berzerkers",
+            "points": 180,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Khorne Berzerkers",
+            "points": 180,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "dedicated_transports": [
+          {
+            "name": "Chaos Rhino",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "other_datasheets": [
+          {
+            "name": "Chaos Spawn",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Spawn",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Spawn",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Exalted Eightbound",
+            "points": 140,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Exalted Eightbound",
+            "points": 140,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Forgefiend",
+            "points": 170,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Forgefiend",
+            "points": 170,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Jakhals",
+            "points": 65,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "Josh \"Git Gud\" E.",
+          "army": "World Eaters",
+          "detachment": "berzerker warband",
+          "opponentListuuid": "6911a5d9125a3c00beaee29e",
+          "status": "victory",
+          "playerScore": "88",
+          "rivalScore": "51"
+        },
+        {
+          "player": "Jonas Beardsley",
+          "army": "Adeptus Mechanicus",
+          "detachment": "haloscreed battle clade",
+          "opponentListuuid": "6911a5d9125a3c00beaee1d2",
+          "status": "defeat",
+          "playerScore": "59",
+          "rivalScore": "78"
+        },
+        {
+          "player": "Yong Qiang Ong",
+          "army": "Black Templars",
+          "detachment": "Gladius Task Force",
+          "opponentListuuid": "6911a5d9125a3c00beaee1a9",
+          "status": "defeat",
+          "playerScore": "56",
+          "rivalScore": "84"
+        },
+        {
+          "player": "Niklas Fritschen",
+          "army": "Chaos Daemons",
+          "detachment": "scintillating legion",
+          "opponentListuuid": "6911a5d9125a3c00beaee22c",
+          "status": "defeat",
+          "playerScore": "40",
+          "rivalScore": "94"
+        },
+        {
+          "player": "Riley Corbitt",
+          "army": "Imperial Knights",
+          "detachment": "Questoris Companions",
+          "opponentListuuid": "6911a5d9125a3c00beaee2ba",
+          "status": "defeat",
+          "playerScore": "64",
+          "rivalScore": "66"
+        },
+        {
+          "player": "Matthew Wood",
+          "army": "Adeptus Custodes",
+          "detachment": "lions of the emperor",
+          "opponentListuuid": "6911a5d9125a3c00beaee2f9",
+          "status": "victory",
+          "playerScore": "62",
+          "rivalScore": "29"
+        },
+        {
+          "player": "Jamie East",
+          "army": "Death Guard",
+          "detachment": "Virulent Vectorium",
+          "opponentListuuid": "6911a5d9125a3c00beaee2e8",
+          "status": "victory",
+          "playerScore": "72",
+          "rivalScore": "48"
+        },
+        {
+          "player": "Fernando Canut",
+          "army": "World Eaters",
+          "detachment": "berzerker warband",
+          "opponentListuuid": "6911a5d9125a3c00beaee2be",
+          "status": "victory",
+          "playerScore": "78",
+          "rivalScore": "59"
+        }
+      ],
+      "tags": [
+        "Chaos Rhino",
+        "Chaos Spawn",
+        "Daemon Prince of Khorne",
+        "Eightbound",
+        "Exalted Eightbound",
+        "Forgefiend",
+        "Jakhals",
+        "Khârn the Betrayer",
+        "Khorne Berzerkers",
+        "Master of Executions",
+        "Slaughterbound"
+      ]
+    },
+    {
+      "playerId": "6911a5d9125a3c00beaee2f3",
+      "playerName": "Will Paul",
+      "firstName": "Will",
+      "lastName": "Paul",
+      "rank": 364,
+      "army": "Orks",
+      "detachment": "da big hunt",
+      "score": "2-6-0",
+      "list": {
+        "characters": [
+          {
+            "name": "Mozrog Skragbad",
+            "points": 145,
+            "enhancements": [],
+            "is_warlord": true
+          },
+          {
+            "name": "Beastboss on Squigosaur",
+            "points": 140,
+            "enhancements": [
+              "Glory Hog (+30 pts)"
+            ],
+            "is_warlord": false
+          },
+          {
+            "name": "Beastboss on Squigosaur",
+            "points": 130,
+            "enhancements": [
+              "Surly As A Squiggoth (+20 pts)"
+            ],
+            "is_warlord": false
+          }
+        ],
+        "battleline": [],
+        "dedicated_transports": [],
+        "other_datasheets": [
+          {
+            "name": "Gretchin",
+            "points": 40,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Gretchin",
+            "points": 40,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Kommandos",
+            "points": 120,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Squighog Boyz",
+            "points": 300,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Squighog Boyz",
+            "points": 300,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Squighog Boyz",
+            "points": 300,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Kill Rig",
+            "points": 155,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Kill Rig",
+            "points": 155,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Kill Rig",
+            "points": 155,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "Collin Cochran",
+          "army": "Death Guard",
+          "detachment": "Virulent Vectorium",
+          "opponentListuuid": "6911a5d9125a3c00beaee1e9",
+          "status": "defeat",
+          "playerScore": "38",
+          "rivalScore": "94"
+        },
+        {
+          "player": "Thom Dues",
+          "army": "Death Guard",
+          "detachment": "champions of contagion",
+          "opponentListuuid": "6911a5d9125a3c00beaee319",
+          "status": "victory",
+          "playerScore": "65",
+          "rivalScore": "63"
+        },
+        {
+          "player": "Kody Drake",
+          "army": "Genestealers Cult",
+          "detachment": "biosanctic broodsurge",
+          "opponentListuuid": "6911a5d9125a3c00beaee1e4",
+          "status": "defeat",
+          "playerScore": "55",
+          "rivalScore": "95"
+        },
+        {
+          "player": "Sepian Wang",
+          "army": "Imperial Knights",
+          "detachment": "Spearhead-at-Arms",
+          "opponentListuuid": "6911a5d9125a3c00beaee26e",
+          "status": "defeat",
+          "playerScore": "45",
+          "rivalScore": "92"
+        },
+        {
+          "player": "James Cummings",
+          "army": "Leagues of Votann",
+          "detachment": "Hearthband",
+          "opponentListuuid": "6911a5d9125a3c00beaee2f0",
+          "status": "victory",
+          "playerScore": "80",
+          "rivalScore": "33"
+        },
+        {
+          "player": "Nicholas Kudriavetz",
+          "army": "Space Marines (Astartes)",
+          "detachment": "Shadowmark Talon",
+          "opponentListuuid": "6911a5d9125a3c00beaee2c1",
+          "status": "defeat",
+          "playerScore": "34",
+          "rivalScore": "58"
+        },
+        {
+          "player": "Jorge Latorre",
+          "army": "Drukhari",
+          "detachment": "Reaper's Wager",
+          "opponentListuuid": "6911a5d9125a3c00beaee2c6",
+          "status": "defeat",
+          "playerScore": "76",
+          "rivalScore": "85"
+        },
+        {
+          "player": "Martin Menoud",
+          "army": "Blood Angels",
+          "detachment": "liberator assault group",
+          "opponentListuuid": "6911a5d9125a3c00beaee2cb",
+          "status": "defeat",
+          "playerScore": "42",
+          "rivalScore": "89"
+        }
+      ],
+      "tags": [
+        "Beastboss",
+        "Beastboss on Squigosaur",
+        "Boyz",
+        "Gretchin",
+        "Kill Rig",
+        "Kommandos",
+        "Mozrog Skragbad",
+        "Squighog Boyz"
+      ]
+    },
+    {
+      "playerId": "6911a5d9125a3c00beaee2fc",
+      "playerName": "Thomas Godfrey",
+      "firstName": "Thomas",
+      "lastName": "Godfrey",
+      "rank": 373,
+      "army": "Chaos Space Marines",
+      "detachment": "pactbound zealots",
+      "score": "1-7-0",
+      "list": {
+        "characters": [
+          {
+            "name": "Cypher",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Fabius Bile",
+            "points": 85,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Lord",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Lord in Terminator Armour",
+            "points": 110,
+            "enhancements": [
+              "Intoxicating Elixir (+15 pts)"
+            ],
+            "is_warlord": true
+          },
+          {
+            "name": "Heretic Astartes Daemon Prince",
+            "points": 180,
+            "enhancements": [
+              "Talisman of Burning Blood (+15 pts)"
+            ],
+            "is_warlord": false
+          }
+        ],
+        "battleline": [
+          {
+            "name": "Cultist Mob",
+            "points": 50,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Cultist Mob",
+            "points": 50,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Legionaries",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "dedicated_transports": [
+          {
+            "name": "Chaos Rhino",
+            "points": 75,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Rhino",
+            "points": 75,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "other_datasheets": [
+          {
+            "name": "Chosen",
+            "points": 125,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chosen",
+            "points": 250,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Possessed",
+            "points": 240,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Raptors",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Bikers",
+            "points": 70,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Predator Destructor",
+            "points": 140,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Chaos Predator Destructor",
+            "points": 140,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Nurglings",
+            "points": 40,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "Brian Jones",
+          "army": "Imperial Knights",
+          "detachment": "Valourstrike Lance",
+          "opponentListuuid": "6911a5d9125a3c00beaee1f8",
+          "status": "defeat",
+          "playerScore": "46",
+          "rivalScore": "100"
+        },
+        {
+          "player": "Riccardo Ghio",
+          "army": "Grey Knights",
+          "detachment": "Brotherhood Strike",
+          "opponentListuuid": "6911a5d9125a3c00beaee1fb",
+          "status": "defeat",
+          "playerScore": "46",
+          "rivalScore": "94"
+        },
+        {
+          "player": "Diego Hinojosa",
+          "army": "Chaos Daemons",
+          "detachment": "daemonic incursion",
+          "opponentListuuid": "6911a5d9125a3c00beaee30a",
+          "status": "victory",
+          "playerScore": "92",
+          "rivalScore": "60"
+        },
+        {
+          "player": "Gary Hayden",
+          "army": "Death Guard",
+          "detachment": "Virulent Vectorium",
+          "opponentListuuid": "6911a5d9125a3c00beaee251",
+          "status": "defeat",
+          "playerScore": "45",
+          "rivalScore": "100"
+        },
+        {
+          "player": "Adam Lev",
+          "army": "Death Guard",
+          "detachment": "mortarion’s hammer",
+          "opponentListuuid": "6911a5d9125a3c00beaee2c9",
+          "status": "defeat",
+          "playerScore": "41",
+          "rivalScore": "62"
+        },
+        {
+          "player": "Matt Lorah",
+          "army": "Tyranids",
+          "detachment": "vanguard onslaught",
+          "opponentListuuid": "6911a5d9125a3c00beaee2b4",
+          "status": "defeat",
+          "playerScore": "42",
+          "rivalScore": "48"
+        },
+        {
+          "player": "James Cummings",
+          "army": "Leagues of Votann",
+          "detachment": "Hearthband",
+          "opponentListuuid": "6911a5d9125a3c00beaee2f0",
+          "status": "defeat",
+          "playerScore": "66",
+          "rivalScore": "90"
+        },
+        {
+          "player": "Nick McClaeb",
+          "army": "Space Wolves",
+          "detachment": "stormlance task force",
+          "opponentListuuid": "6911a5d9125a3c00beaee2ef",
+          "status": "defeat",
+          "playerScore": "81",
+          "rivalScore": "84"
+        }
+      ],
+      "tags": [
+        "Chaos Bikers",
+        "Chaos Lord",
+        "Chaos Lord in Terminator Armour",
+        "Chaos Predator Destructor",
+        "Chaos Rhino",
+        "Chosen",
+        "Cultist Mob",
+        "Cypher",
+        "Fabius Bile",
+        "Heretic Astartes Daemon Prince",
+        "Legionaries",
+        "Possessed",
+        "Raptors"
+      ]
+    },
+    {
+      "playerId": "6911a5d9125a3c00beaee30b",
+      "playerName": "Rafael Rafiki Cabello",
+      "firstName": "Rafael Rafiki",
+      "lastName": "Cabello",
+      "rank": 388,
+      "army": "Imperial Knights",
+      "detachment": "Valourstrike Lance",
+      "score": "2-6-0",
+      "list": {
+        "characters": [
+          {
+            "name": "Cerastus Knight Atrapos",
+            "points": 420,
+            "enhancements": ["Bearer of the Evanescent Ion"],
+            "is_warlord": true
+          },
+          {
+            "name": "Knight Defender",
+            "points": 450,
+            "enhancements": ["Bearer of the Judicant's Helm"],
+            "is_warlord": false
+          },
+          {
+            "name": "Knight Paladin",
+            "points": 375,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Knight Warden",
+            "points": 385,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ],
+        "battleline": [],
+        "dedicated_transports": [],
+        "other_datasheets": [
+          {
+            "name": "Armiger Warglaive",
+            "points": 280,
+            "enhancements": [],
+            "is_warlord": false
+          },
+          {
+            "name": "Imperial Navy Breachers",
+            "points": 90,
+            "enhancements": [],
+            "is_warlord": false
+          }
+        ]
+      },
+      "path": [
+        {
+          "player": "John Lennon",
+          "army": "Emperors Children",
+          "detachment": "coterie of the conceited",
+          "opponentListuuid": "6911a5d9125a3c00beaee18a",
+          "status": "defeat",
+          "playerScore": "74",
+          "rivalScore": "79"
+        },
+        {
+          "player": "Francesco Di Bonaventura",
+          "army": "Necrons",
+          "detachment": "awakened dynasty",
+          "opponentListuuid": "6911a5d9125a3c00beaee1a2",
+          "status": "defeat",
+          "playerScore": "22",
+          "rivalScore": "100"
+        },
+        {
+          "player": "Chris Johnson",
+          "army": "Astra Militarum",
+          "detachment": "siege regiment",
+          "opponentListuuid": "6911a5d9125a3c00beaee23d",
+          "status": "defeat",
+          "playerScore": "41",
+          "rivalScore": "95"
+        },
+        {
+          "player": "Josh P",
+          "army": "Chaos Space Marines",
+          "detachment": "chaos cult",
+          "opponentListuuid": "6911a5d9125a3c00beaee2b9",
+          "status": "defeat",
+          "playerScore": "29",
+          "rivalScore": "100"
+        },
+        {
+          "player": "Alejandro Jorquera",
+          "army": "Space Marines (Astartes)",
+          "detachment": "Shadowmark Talon",
+          "opponentListuuid": "6911a5d9125a3c00beaee300",
+          "status": "defeat",
+          "playerScore": "59",
+          "rivalScore": "97"
+        },
+        {
+          "player": "Jason Crepin",
+          "army": "T'Au Empire",
+          "detachment": "experimental prototype cadre",
+          "opponentListuuid": "6911a5d9125a3c00beaee318",
+          "status": "victory",
+          "playerScore": "83",
+          "rivalScore": "34"
+        },
+        {
+          "player": "Adolfo Villarreal",
+          "army": "Aeldari",
+          "detachment": "Warhost",
+          "opponentListuuid": "6911a5d9125a3c00beaee303",
+          "status": "defeat",
+          "playerScore": "57",
+          "rivalScore": "99"
+        },
+        {
+          "player": "Aaron Rider",
+          "army": "Black Templars",
+          "detachment": "Companions of Vehemence",
+          "opponentListuuid": "6911a5d9125a3c00beaee311",
+          "status": "victory",
+          "playerScore": "79",
+          "rivalScore": "70"
+        }
+      ],
+      "tags": [
+        "Armiger Warglaive",
+        "Canis Rex",
+        "Cerastus Knight Atrapos",
+        "Knight Paladin",
+        "Knight Warden",
+        "Imperial Navy Breachers"
+      ]
+    }
+  ],
+  "statistics": {
+    "totalPlayers": 19,
+    "listsParsed": 19,
+    "listsSkipped": 0,
+    "parserUsage": {
+      "manual": 19
+    }
+  }
+}
