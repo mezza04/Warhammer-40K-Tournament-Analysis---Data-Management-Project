@@ -77,3 +77,4 @@ Full methodology and results are available in the project report.
 - **Andrea Porro:** statistical analysis and interpretation
 
 *Warhammer 40,000 is a trademark of Games Workshop. This is an independent academic project, not affiliated with or endorsed by Games Workshop.*
+
